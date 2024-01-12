@@ -1,0 +1,16 @@
+SentencePiece 
+skimpy 
+wordsegment 
+emoji 
+peft
+bitsandbytes
+transformers 
+torchvision
+scikit-learn
+seaborn
+pandas
+utils
+nltk
+matplotlib 
+torch
+ekphrasis -U
